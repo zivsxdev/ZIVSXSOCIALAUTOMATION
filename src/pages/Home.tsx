@@ -11,7 +11,7 @@ export default function Landing() {
     return (
         <div className="min-h-screen bg-white text-slate-900 font-sans">
             <Navbar />
-            <Hero />
+            <Hero /> 
             <Features />
             <HowItWorks />
             <Testimonials />
